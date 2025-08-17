@@ -3241,7 +3241,7 @@ elif st.session_state.current_page == "questionnaire":
     # Child information form with modern styling
     st.markdown("""
     <div style="background: #8b5cf6; padding: 40px; border-radius: 20px; box-shadow: 0 4px 20px rgba(0,0,0,0.08); margin: 40px 0;">
-        <h3 style="color: white; margin-bottom: 20px; font-size: 32px;">🧸 Child Information</h3>
+        <h3 style="color: white; margin-bottom: 20px; font-size: 52px;">🧸 Child Information</h3>
     </div>
     """, unsafe_allow_html=True)
 
